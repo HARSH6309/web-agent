@@ -16,6 +16,9 @@ An AI-powered FastAPI application that:
 - Analyzes content using GPT
 - Summarizes into a research report
 
+If Open AI Key not set, then kindly set you own Open AI API Key and Serp API as well.
+Although I have already included them in the code, if they dont work then kindly set them in your virtual environment.
+
 To run -
 open terminal & type - 
 uvicorn main:app --reload
